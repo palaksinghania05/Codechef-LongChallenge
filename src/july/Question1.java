@@ -1,3 +1,5 @@
+package july;
+
 import java.util.Scanner;
 
 //Maximum Production

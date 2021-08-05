@@ -1,4 +1,4 @@
-//Relativity
+package july;//Relativity
 /*
 In Chefland, the speed of light is c m/s, and acceleration due to gravity is g m/s2.
 Find the smallest height (in meters) from which Chef should jump such that during his journey down only
