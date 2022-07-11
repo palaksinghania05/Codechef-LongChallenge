@@ -1,6 +1,6 @@
 //PROBLEM DIFFICULTIES
 
-package august;
+package y2021.august;
 
 import java.util.Arrays;
 import java.util.Scanner;

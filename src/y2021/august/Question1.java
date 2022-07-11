@@ -1,6 +1,6 @@
 //OLYMPICS RANKING
 
-package august;
+package y2021.august;
 
 import java.util.Scanner;
 

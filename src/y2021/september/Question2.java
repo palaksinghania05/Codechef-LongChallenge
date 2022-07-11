@@ -1,8 +1,7 @@
 //TRAVEL PASS
 
-package september;
+package y2021.september;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Question2 {

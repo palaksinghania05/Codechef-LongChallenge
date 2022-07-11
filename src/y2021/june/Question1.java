@@ -1,6 +1,6 @@
 //COCONUT
 
-package june;
+package y2021.june;
 
 import java.util.Scanner;
 
